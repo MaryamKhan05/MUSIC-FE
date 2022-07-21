@@ -1,0 +1,45 @@
+.map-container-4{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container-4 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+  body{
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  
+  
+  
+  /*************** audio player grid*********/
+   .dynamiclink, .dynamiclink:hover {
+    cursor: pointer;
+    color: #23527c;
+  }
+  
+  .audiocontroller {
+    border: 1px solid #ccc;
+    padding: 5px;
+    max-width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .audio-logo {
+    color: #FFF;
+    background: #999;
+    padding: 10px;
+    margin: -6px -5px -5px -5px;
+  }
+  
+  #play {
+    margin-left: 5px;
+  }
+  /*************** audio player grid*********/
